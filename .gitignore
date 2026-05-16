@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 dist/
 .env
@@ -7,3 +8,14 @@ dist/
 coverage/
 .vscode/
 .idea/
+=======
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+coverage/
+.vscode/
+.idea/
+>>>>>>> fbc9d379dd8896a1c2c0695aa03a520c127c10af
